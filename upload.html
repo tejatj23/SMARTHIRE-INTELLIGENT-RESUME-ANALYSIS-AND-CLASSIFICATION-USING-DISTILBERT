@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<div class="navbar">
+    <a href="/dashboard">Dashboard</a>
+    <a href="javascript:history.back()">⬅ Back</a>
+</div>
+
+<div class="container">
+<div class="card">
+
+<h2>Upload Resume</h2>
+
+<form method="POST" enctype="multipart/form-data">
+    <input type="file" name="resume">
+    <button type="submit">Upload</button>
+</form>
+
+<button class="back-btn" onclick="history.back()">Go Back</button>
+
+</div>
+</div>

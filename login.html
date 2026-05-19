@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<div class="navbar">
+    <a href="/">Home</a>
+</div>
+
+<div class="container">
+<div class="card">
+
+<h2>Login</h2>
+
+<form method="POST">
+    <input type="text" name="username" placeholder="Username">
+    <input type="password" name="password" placeholder="Password">
+    <button type="submit">Login</button>
+</form>
+
+<button class="back-btn" onclick="history.back()">⬅ Back</button>
+
+</div>
+</div>

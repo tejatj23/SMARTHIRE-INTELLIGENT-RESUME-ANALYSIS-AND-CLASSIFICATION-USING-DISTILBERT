@@ -1,0 +1,101 @@
+text,label
+"embedded c microcontroller iot firmware rtos hardware",embedded
+"rtos embedded systems c programming microcontroller hardware driver",embedded
+"arduino raspberry pi gpio sensor embedded firmware uart spi i2c",embedded
+"verilog vhdl fpga digital logic hardware description language",embedded
+"firmware development c c++ low level programming microcontroller",embedded
+"iot device programming embedded linux yocto buildroot",embedded
+"stm32 arm cortex microcontroller embedded c real time",embedded
+"embedded software engineer c programming rtos freertos",embedded
+"hardware abstraction layer bsp board support package firmware",embedded
+"interrupt driven programming dma peripheral drivers embedded c",embedded
+"aws cloud docker kubernetes devops infrastructure terraform",cloud
+"cloud computing azure aws infrastructure devops ci cd pipeline",cloud
+"gcp google cloud platform kubernetes docker containerization",cloud
+"devops engineer jenkins ansible terraform aws cloud automation",cloud
+"site reliability engineering sre kubernetes prometheus grafana",cloud
+"cloud architect aws solutions architect azure devops",cloud
+"docker kubernetes microservices deployment cloud native",cloud
+"terraform infrastructure as code aws lambda serverless",cloud
+"azure devops ci cd pipelines cloud deployment",cloud
+"aws ec2 s3 rds vpc cloud infrastructure management",cloud
+"python machine learning data analysis scikit learn pandas numpy",datascience
+"deep learning ai nlp python tensorflow pytorch neural network",datascience
+"data scientist machine learning model training evaluation sklearn",datascience
+"natural language processing nlp bert transformers huggingface",datascience
+"computer vision opencv image classification deep learning cnn",datascience
+"data analysis pandas numpy matplotlib seaborn jupyter notebook",datascience
+"ml engineer mlops model deployment feature engineering",datascience
+"statistical analysis hypothesis testing regression classification",datascience
+"reinforcement learning neural network pytorch gpu training",datascience
+"big data spark hadoop data pipeline etl machine learning",datascience
+"html css javascript react frontend web development responsive",web
+"nodejs express backend api rest graphql javascript typescript",web
+"full stack developer react nodejs mongodb javascript html css",web
+"vue angular frontend framework javascript typescript web app",web
+"django flask python web backend rest api postgresql",web
+"web developer html5 css3 javascript jquery bootstrap",web
+"nextjs react typescript frontend developer tailwind css",web
+"php laravel mysql backend web development",web
+"spring boot java backend rest api microservices web",web
+"svelte webpack vite frontend tooling javascript build",web
+"figma adobe xd ui ux design wireframe prototype user interface",design
+"product designer user experience ux research usability testing",design
+"graphic designer illustrator photoshop branding typography",design
+"ui designer figma sketch design system component library",design
+"ux researcher user interview usability study affinity mapping",design
+"motion designer after effects animation ui interaction",design
+"canva adobe illustrator social media design visual identity",design
+"design thinking human centered design prototype wireframe",design
+"ui ux engineer figma react design system accessibility",design
+"information architecture sitemap wireframe low fidelity prototype",design
+"android kotlin java mobile app development android studio",mobile
+"ios swift swiftui xcode apple mobile development",mobile
+"flutter dart cross platform mobile android ios development",mobile
+"react native javascript cross platform mobile app",mobile
+"mobile developer kotlin coroutines jetpack compose android",mobile
+"ios developer objective c swift uikit autolayout cocoa",mobile
+"xamarin c# cross platform mobile development",mobile
+"mobile ui ux android material design ios human interface",mobile
+"app store google play mobile deployment ci cd fastlane",mobile
+"firebase push notifications mobile backend android ios",mobile
+"mysql postgresql database design sql query optimization",database
+"mongodb nosql database aggregation pipeline indexing",database
+"oracle database administrator dba performance tuning backup",database
+"redis caching database nosql key value store",database
+"cassandra distributed database nosql data modeling",database
+"database engineer etl pipeline data warehouse sql",database
+"postgresql stored procedures triggers indexing performance",database
+"elasticsearch search engine database kibana logstash",database
+"sqlite embedded database mobile android sql query",database
+"data modelling erd relational schema normalization sql",database
+"cisco ccna network engineer routing switching bgp ospf",networking
+"network administrator firewall vpn subnetting tcp ip",networking
+"wireshark network analysis packet capture protocol",networking
+"network security nmap penetration testing infrastructure",networking
+"juniper cisco router switch vlan configuration",networking
+"sd wan network engineer cloud networking zero trust",networking
+"ipv4 ipv6 subnetting routing protocols ospf eigrp bgp",networking
+"noc engineer network monitoring nagios prtg snmp",networking
+"wireless network wifi wpa enterprise radius 802.1x",networking
+"network infrastructure design topology lan wan",networking
+"penetration testing ethical hacking kali linux burpsuite",cybersecurity
+"security analyst siem splunk log analysis incident response",cybersecurity
+"cybersecurity engineer vulnerability assessment cve patching",cybersecurity
+"soc analyst threat hunting malware analysis forensics",cybersecurity
+"owasp web application security xss sql injection",cybersecurity
+"iam identity access management zero trust security",cybersecurity
+"cloud security aws security groups iam policies compliance",cybersecurity
+"cryptography pki certificates ssl tls security",cybersecurity
+"risk assessment iso 27001 compliance security audit",cybersecurity
+"reverse engineering malware analysis sandbox dynamic static",cybersecurity
+"java spring boot microservices rest api backend developer",backend
+"python fastapi backend rest api postgresql redis",backend
+"golang backend microservices grpc rest api kubernetes",backend
+"node express typescript backend api mongodb",backend
+"ruby rails backend developer rest api postgresql",backend
+"backend engineer api design authentication jwt oauth",backend
+"c# dotnet asp net core backend api sql server",backend
+"scala akka backend distributed systems reactive",backend
+"elixir phoenix backend real time api channels",backend
+"backend developer message queue rabbitmq kafka celery",backend

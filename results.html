@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<div class="navbar">
+    <a href="/dashboard">Dashboard</a>
+    <a href="javascript:history.back()">⬅ Back</a>
+</div>
+
+<h1 style="text-align:center;">SmartHireAI Results</h1>
+
+{% for file, data in results.items() %}
+
+<div class="result-card">
+
+<h3>{{ file }}</h3>
+
+<p><b>Score:</b> {{ data.score }}%</p>
+<p><b>Quality:</b> {{ data.quality }}</p>
+
+<p><b>Matched Skills:</b> {{ data.matched }}</p>
+<p><b>Missing Skills:</b> {{ data.missing }}</p>
+
+<p><b>Suggestion:</b> {{ data.suggestion }}</p>
+
+<p><b>Roles:</b> {{ data.roles }}</p>
+
+</div>
+
+{% endfor %}
+
+<div style="text-align:center;">
+    <button onclick="history.back()">⬅ Back</button>
+</div>
