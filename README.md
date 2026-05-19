@@ -1,1 +1,3 @@
 # SMARTHIRE-INTELLIGENT-RESUME-ANALYSIS-AND-CLASSIFICATION-USING-DISTILBERT
+
+SmartHire is an AI-powered recruitment assistance system that automates resume screening and candidate analysis using NLP and deep learning. It leverages DistilBERT for contextual resume classification, enabling accurate identification of candidate domains beyond simple keyword matching. The system analyzes uploaded resumes, detects matched and missing skills against job requirements, calculates relevance scores, evaluates resume quality, and recommends suitable job roles with improvement suggestions. Built using Python, Flask, PyTorch, Hugging Face Transformers, and Oracle Database, SmartHire provides a scalable and intelligent solution for modern recruitment automation.
